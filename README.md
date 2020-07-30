@@ -1,5 +1,5 @@
--Srishti 2020
 # HopBot
+-Srishti 2020
 ##  ABSTRACT:
 <p align="justify">
  Hop bot is used to jump over any obstacle of height of comparable dimension to that of the bot. Motor, Springs and Gears are used for its proper functioning along with a pair of Non-motorized wheels.
@@ -28,6 +28,7 @@
  <p align="justify">
  	DC motors take electrical power through direct current, and convert this energy into mechanical rotation. DC motors use magnetic fields that occur from the electrical currents generated, which powers the movement of a rotor fixed within the output shaft. The output torque and speed depends upon both the electrical input and the design of the motor.
  </p>
+
 #### _Motto of usage:_
 <p align="justify">
  Speed control and output range.  DC motors offer better speed variation and control and produce more torque than AC motors.
@@ -38,14 +39,17 @@
 <p align="justify">
  Worm has two parts in which a worm gear meshes with a worm wheel. These together help in power transmission.The worm wheel is similar to spur gear.
 </p>
+
 #### _Power transmission_:
 <p align="justify"> 
  Left hand and right hand worm: a right hand worm gear moves in clockwise direction regarding observer and a left hand worm gear moves in anticlockwise direction regarding observer.
 </p>
+
 #### _Motto of usage:_
 <p align="justify"> 
  Worm drive was used to reduce rotational speed and   transmit higher torque. They transfer motion in 90 degrees.
 </p>
+
 #### _Mechanism:_
 <p align="justify"> 
  The shaft of a DC Motor is connected to worm gear and worm gear is connected to worm wheel. When the shaft of motor rotates, the worm gear starts rotating and due to meshing worm wheel also rotates and transmission takes place. And this worm wheel is connected to a spur gear of 2pi/3 teeth through a shaft.
@@ -61,10 +65,12 @@
  Spur gear contains a cylindrical visualization with teeth radiating. Spur gear comes with different dimensions in which their radius, pressure angle and inclination of teeth with respect to axis of rotation, diametral pitch can be changed.  Gear ratio helps in power transmission.
 Here we have used external spur gears.
 </p>
+
 #### _Motto of usage:_  
 <p align="justify"> 
  Spur gear mainly offers constant velocity ratio, don’t slip. These help in transmitting large power. We have used two spur gears. 
 </p>
+
 #### _Mechanism:_
 <p align="justify"> 
  Worm wheel is connected to a spur gear of 2pi/3 teeth through a shaft. Gear ratio of two spur gears used is “three”, Small one with full teeth and one gear with large one third of teeth. When these two gears are meshed with each other, the spring gets compressed and when the part of large gear without teeth gets in contact with small gear the bot will jump and when the teeth of large gear again comes in contact with small gear, by that time the bot will be on ground. And this process continues.
@@ -77,6 +83,7 @@ Here we have used external spur gears.
 <p align="justify">   
  To provide the required thrust.
 </p>
+
 #### _Mechanism:_
 <p align="justify"> 
  The small spur gear is connected through a shaft with a string and the string rolls over the pulley. When the small gear along with the shaft rotates, the shaft tends to pull the string and the string rotates over the pulley inward and the string connected to the system of springs get compressed due to their arrangement in that way and the bot jumps and the process continues.
@@ -95,6 +102,7 @@ Here we have used external spur gears.
 <p align="justify"> 
  Shaft, usually in circular dimension in which its radius and length can be changed.
 </p>
+
 #### _Motto of usage:_
 <p align="justify"> 
  It is a rotating machine unit. This was used to transmit power from one part to another, or from a machine which produces power to a machine which absorbs power. The various members such as pulleys and gears are mounted on it.
@@ -107,6 +115,7 @@ Here we have used external spur gears.
 <p align="justify"> 
  When the anode and cathode of a battery is connected to form a circuit, a chemical reaction takes place between the anode and the electrolyte. This reaction causes electrons to flow through the circuit and back into the cathode where another chemical reaction takes place. 
 </p>
+
 #### _Motto of usage:_ 
 <p align="justify"> 
  Battery is used for electrical energy generation and this electrical energy is consumed by the motor for the rotation of its shaft
@@ -117,14 +126,17 @@ Here we have used external spur gears.
 <p align="justify"> 
  Arduino is an open-source electronic platform that relates hardware and software.
 </p>
+
 #### _Working:_
 <p align="justify"> 
  Arduino boards are able to read inputs - light on a sensor, a finger on a button - and turn it into an output - activating a motor, turning on an LED.
 </p>
+
 #### _Motto of usage:_
 <p align="justify"> 
  To determine and monitor the speed of a motor and sensors, this arduino was used. And this helps in giving energy to the motor and battery is connected arduino.
 </p>
+
 #### _Position:_
 <p align="justify"> 
  This arduino was placed outside of the board to reduce the weight of the bot and it was connected with wires to the motor. Here arduino uno was used since our bot doesn’t require high amount of power and lot of pins and memory space.
