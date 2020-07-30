@@ -1,15 +1,18 @@
+-Srishti 2020
 # HopBot
-
 ##  ABSTRACT:
  Hop bot is used to jump over any obstacle of height of comparable dimension to that of the bot. Motor, Springs and Gears are used for its proper functioning along with a pair of Non-motorized wheels.
 
 ![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Mechanical%20cad.jpg)
 
-## INTRODUCTION:
+## MOTIVATION:
  A jumping robot can cross the obstacle several times its own height.Military and disaster management teams sometimes come across situations where they need a robot which can be operated in any terrain. There we need hop bot which occupies less space, could skip obstacles by jumping mechanism.
  While designing we took hint from the hoping of locust and grasshopper. In nature, a locust will first orient its body to the desired direction with its forelegs and then propel its jumps via rapid movement of its hind legs, thereby converting stored energy to the acceleration of its body. 
  Here we used the springs for replacing the muscle power. The spring has the advantages of strong energy storage, fast energy release, simple structure, and simple control.
 
+## WORKFLOW:
+
+![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Work%20Flow.PNG)
 ## MECHANICAL ASPECTS: 
 
 ###  DC MOTOR:
@@ -89,33 +92,40 @@ Here we have used external spur gears.
 #### _Motto of usage:_
  Gyroscope was used to determine angular velocity orientation of bot.
 
-### WORKFLOW:
+## COST STRUCTURE:
+![Image](https://github.com/pabbathisowmya/Hop-Bot-1/blob/master/Images/Cost%20Structure.PNG)
 
-![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Work%20Flow.PNG)
+## APPLICATIONS:
+ 1. Hop bot has a strong ability to overcome obstacles. 
+ 2. It can be applied to the occasion with complex situation such as detection of plane surface and military reconnaissance.
+ 3. It can be applied to the occasion with changeable environment such as post disaster relief.
 
-### APPLICATIONS:
- Hop bot has a strong ability to overcome obstacles. It can be applied to the occasion with complex and changeable environment, such as detection of plane surface, post disaster relief and military reconnaissance.
+## LIMITATIONS:
+ 1. Robot cannot move it can only jump
+ 2. Its forwarded movement cannot be controlled that comes from jump
+ 3. It cannot jump higher Up to a limit of 0.5m
+ 4. Direction of bot movement cannot be controlled
 
-### FUTURE IMPROVEMENTS:
+## FUTURE IMPROVEMENTS:
  1. Changes can be made to move it in a desirable direction.
  2. Jump height can be increased by using a strong motor. 
  3. Time interval between two simultaneous jumps can be decreased.
 
-### TEAM MEMBERS:
+## TEAM MEMBERS:
  1.	[Anshul saini](https://github.com/Anshulsaini24)
- 2.	[pabbathisowmya](https://github.com/pabbathisowmya)
- 3. [Dushyant Yadav](https://github.com/Dushyant540yadav)
- 4.	[Vishal Yadav](https://github.com/Vishal2832)
- 5.	[R. pranav](https://github.com/Pranavravichandran)
- 6.	[Jahnavi Tarale](https://github.com/janhavi729)
+ 2.	[Dushyant Yadav](https://github.com/Dushyant540yadav)
+ 3. [Jahnavi Tarale](https://github.com/janhavi729)
+ 4.	[pabbathisowmya](https://github.com/pabbathisowmya)
+ 5.	[R.pranav](https://github.com/Pranavravichandran)
+ 6.	[Vishal Yadav](https://github.com/Vishal2832)
 
-### MENTOR:
+## MENTORS:
  1.	[Dhruv seghal](https://github.com/Dhruv1064)
  2. [Suja](https://github.com/suja-g)
  3. [Virendra Yadav](https://github.com/virenyadav01)
 
-### REFERENCE:
- 1. [https://www.hindawi.com/journals/abb/2017/4780160/]
- 2. [https://journals.sagepub.com/doi/full/10.5772/64200]
- 3. [https://www.google.com/amp/s/spectrum.ieee.org/automaton/robotics/robotics-hardware/salto1p-is-the-most-amazing-jumping-robot-weve-ever-seen.amp.html]
+## REFERENCE:
+ 1. https://www.hindawi.com/journals/abb/2017/4780160/
+ 2. https://journals.sagepub.com/doi/full/10.5772/64200
+ 3. https://www.google.com/amp/s/spectrum.ieee.org/automaton/robotics/robotics-hardware/salto1p-is-the-most-amazing-jumping-robot-weve-ever-seen.amp.html
  
